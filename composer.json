@@ -2,7 +2,7 @@
     "name": "ryzen/builderfactory2",
     "autoload": {
         "psr-4": {
-            "Ryzen\\Builderfactory2\\": "src/"
+            "App\\": "src/"
         }
     },
     "authors": [
